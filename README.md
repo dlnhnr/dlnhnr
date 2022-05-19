@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at [dlnhnr.com](dlnhnr.com)
+- 👨‍💻 View my portfolio at [dlnhnr.com](dlnhnr.com)
 
 - 📫 How to reach me **dlnhnr@gmail.com**
 
