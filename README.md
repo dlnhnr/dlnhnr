@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 👨‍💻 View my portfolio at [dlnhnr.com](www.dlnhnr.com)
+- 👨‍💻 View my portfolio <a href="https://www.dlnhnr.com">here</a>
 
 - 📫 How to reach me **dlnhnr@gmail.com**
 
